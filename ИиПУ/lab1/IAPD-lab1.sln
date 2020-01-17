@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IAPD-lab1", "IAPD-lab1\IAPD-lab1.vcxproj", "{A277C27C-FCE4-4244-A305-2D9FD15A6942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A277C27C-FCE4-4244-A305-2D9FD15A6942}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{A277C27C-FCE4-4244-A305-2D9FD15A6942}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A277C27C-FCE4-4244-A305-2D9FD15A6942}.Debug|Win32.Build.0 = Debug|Win32
+		{A277C27C-FCE4-4244-A305-2D9FD15A6942}.Debug|x64.ActiveCfg = Debug|Win32
+		{A277C27C-FCE4-4244-A305-2D9FD15A6942}.Release|Any CPU.ActiveCfg = Release|Win32
+		{A277C27C-FCE4-4244-A305-2D9FD15A6942}.Release|Win32.ActiveCfg = Release|Win32
+		{A277C27C-FCE4-4244-A305-2D9FD15A6942}.Release|Win32.Build.0 = Release|Win32
+		{A277C27C-FCE4-4244-A305-2D9FD15A6942}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA612D49-A0CB-463E-AB06-DD7927FE7B63}
+	EndGlobalSection
+EndGlobal
