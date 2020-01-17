@@ -1,0 +1,13 @@
+﻿  MyLib.cpp
+d:\university\5 семестр\токс\tbokn-master\lab3\hammingcodeprogram\hammingcodeprogram\mylib.cpp(38): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+d:\university\5 семестр\токс\tbokn-master\lab3\hammingcodeprogram\hammingcodeprogram\mylib.cpp(53): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+d:\university\5 семестр\токс\tbokn-master\lab3\hammingcodeprogram\hammingcodeprogram\mylib.cpp(55): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+d:\university\5 семестр\токс\tbokn-master\lab3\hammingcodeprogram\hammingcodeprogram\mylib.cpp(94): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+d:\university\5 семестр\токс\tbokn-master\lab3\hammingcodeprogram\hammingcodeprogram\mylib.cpp(133): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  main.cpp
+  Создание кода...
+  HammingCodeProgram.vcxproj -> D:\University\5 семестр\ТОКС\TBoKN-master\lab3\HammingCodeProgram\x64\Debug\HammingCodeProgram.exe
